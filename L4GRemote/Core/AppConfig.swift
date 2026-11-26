@@ -36,7 +36,7 @@ enum AppConfig {
         "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 
     static let cloudManifestURL =
-        "https://raw.githubusercontent.com/Lgfire444/L4G-Panel-Update/main/version.json"
+        "https://raw.githubusercontent.com/lgfire093/L4G-Panel-Update/main/version.json"
 
     enum KeyAuth {
         static let appName = "Lgfire444's Application"
